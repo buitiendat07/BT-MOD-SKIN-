@@ -1,8 +1,0 @@
-TitleStr = Lưu ý
-strContent = Kênh <color=#E2C872>BTĐ MOD SKIN</color> bị <color=#FF0000>Youtube</color> Cấm nên mình đổi danh xưng thành <color=#E2C872>TKA MOD AOV</color>, anh em yêu quý mình thì cho mình 1 đăng ký nha.\n\n• YouTube: <color=#E2C872>TKA MOD AOV</color>\n• Thuê Mod bấm nút: <color=#00FF80>THUÊ MOD</color>\n• Để đăng ký kênh thì bấm vào nút: <color=#FF4500>ĐĂNG KÝ</color>
-hasCancelBtn = true
-confirmStr = Thuê Mod
-cancelStr = Đăng Ký
-onConfirm = https://m.me/btdmodskin
-onCancel = https://youtube.com/@tkamodaov?si=vk7YVub919PsM7Zf
-isShowCloseBtn = true
