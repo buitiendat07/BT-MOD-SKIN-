@@ -1,7 +1,7 @@
-KAtrContent = "<color=#68B8EA>FILE ĐƯỢC HOÀN THÀNH BỞI</color>\n\n• YouTube: <color=#E2C872>KA MOD AOV - BTD MOD SKIN</color>\n• Thuê Mod bấm nút: <color=#00FF80>THUÊ MOD</color>\n• Để đăng ký kênh thì bấm vào nút: <color=#FF4500>ĐĂNG KÝ</color>"
+KAtrContent = "<color=#68B8EA>FILE ĐƯỢC HOÀN THÀNH BỞI</color>\n\n• YouTube: <color=#E2C872>KA MOD AOV - BTĐ MOD SKIN</color>\n• Thuê Mod bấm nút: <color=#00FF80>THUÊ MOD</color>\n• Để đăng ký kênh thì bấm vào nút: <color=#FF4500>ĐĂNG KÝ</color>"
 hasCancelBtn = true
 confirmStr = Thuê Mod
 cancelStr = Đăng Ký
 onConfirm = https://m.me/kamodaov
 onCancel = https://youtube.com/@kamodaov?si=tbB9F8sWON3dshMy
-isShowCloseBtn = true
+isShowCloseBtn = Ký
