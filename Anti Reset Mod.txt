@@ -3,6 +3,6 @@ strContent = <color=#68B8EA>FILE ĐƯỢC HOÀN THÀNH BỞI</color>\n\n• YouT
 hasCancelBtn = true
 confirmStr = Thuê Mod
 cancelStr = Đăng Ký
-onConfirm = https://m.me/btdmodskin
+onConfirm = https://m.me/kamodaov
 onCancel = https://youtube.com/@kamodaov
-isShowCloseBtn = UDRAoY3RdizilskN
+isShowCloseBtn = true
