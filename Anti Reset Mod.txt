@@ -1,8 +1,8 @@
 titleStr = Lưu ý
-strContent = <color=#68B8EA>FILE ĐƯỢC HOÀN THÀNH BỞI</color>\n\n• YouTube: <color=#E2C872>KA MOD AOV - BTĐ MOD SKIN - BẨN BỰA AOV</color>\n• Thuê Mod qua Messenger: <color=#00BFFF>THUÊ MOD MESSENGER</color>\n• Thuê Mod qua Telegram: <color=#00FF80>THUÊ MOD TELEGRAM</color>\n\n<color=#FFD700>★ ƯU TIÊN REP QUA TELEGRAM ★</color>
+strContent = <color=#68B8EA>FILE ĐƯỢC HOÀN THÀNH BỞI</color>\n\n• YouTube: <color=#E2C872>KA MOD AOV - BTĐ MOD SKIN - BẨN BỰA AOV</color>\n• Thuê Mod qua Telegram: <color=#00FF80>THUÊ MOD TELEGRAM</color>\n• Thuê Mod qua Messenger: <color=#00BFFF>THUÊ MOD MESSENGER</color>\n\n<color=#FFD700>★ ƯU TIÊN REP QUA TELEGRAM ★</color>
 hasCancelBtn = true
-confirmStr = Thuê Mod Messenger
-cancelStr = Thuê Mod Telegram
-onConfirm = https://m.me/banbuaaov
-onCancel = https://t.me/banbuaaov
+confirmStr = Thuê Mod Telegram
+cancelStr = Thuê Mod Messenger
+onConfirm = https://t.me/banbuaaov
+onCancel = https://m.me/banbuaaov
 isShowCloseBtn = true
